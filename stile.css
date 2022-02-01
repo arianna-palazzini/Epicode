@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(243, 231, 214);
+    font-family: 'Source Serif 4', sans-serif;
+}
+
+section{
+    display: flex;
+}
+
+h1{
+    text-align: center;
+    color: rgb(112, 173, 135);
+}
+
+div{
+    background-color: rgb(112, 173, 135);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    box-shadow: 4px 4px 2px grey;
+}
+
+h2{
+    text-align: center;
+    color: rgb(243, 231, 214);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: white;
+}
